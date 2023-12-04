@@ -1,6 +1,6 @@
 # Trabalho-da-Escola-
 Trabalho da Escola questão 2
-//declaração de variáveis do tipo inteiro
+
 
 int a, b, soma;
 
